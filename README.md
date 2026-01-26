@@ -51,5 +51,8 @@ This is a list of all of the tech communities in Uganda
 - MUK: Makerere University Kampala
 - UICT: Uganda Institute of Information Technology
 - UTAMU: Uganda Technology and Management University
+- CSS: Cascading Style Sheets
+- Js: JavaScript
+- Ug: Uganda
   
 
