@@ -39,6 +39,8 @@ This is a list of all of the tech communities in Uganda
 - CSS Kampala :()
 - Next Js Kampala: ()
 - Supabase Community: ()
+- Js Ladies: ()
+- 
 
 ## Acronyms
 
