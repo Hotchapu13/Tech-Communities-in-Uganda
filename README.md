@@ -36,7 +36,9 @@ This is a list of all of the tech communities in Uganda
 - PyData Kampala: (https://chat.whatsapp.com/GPDBHUyd47WJxT8qCznBRO)
 - BitDevs: ()
 - BitCoin Ug: ()
-- CSS Kampala : ()
+- CSS Kampala :()
+- Next Js Kampala:
+- 
 
 ## Acronyms
 
