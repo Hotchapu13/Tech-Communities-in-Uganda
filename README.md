@@ -37,8 +37,8 @@ This is a list of all of the tech communities in Uganda
 - BitDevs: ()
 - BitCoin Ug: ()
 - CSS Kampala :()
-- Next Js Kampala:
-- 
+- Next Js Kampala: ()
+- Supabase Community: ()
 
 ## Acronyms
 
