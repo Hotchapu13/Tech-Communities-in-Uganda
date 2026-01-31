@@ -40,7 +40,8 @@ This is a list of all of the tech communities in Uganda
 - Next Js Kampala: ()
 - Supabase Community: ()
 - Js Ladies: ()
-- 
+- Women in Data Science ()
+- Nestjs Community ( )
 
 ## Acronyms
 
