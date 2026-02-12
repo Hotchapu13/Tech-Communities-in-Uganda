@@ -42,7 +42,8 @@ This is a list of all of the tech communities in Uganda
 - Js Ladies: ()
 - Women in Data Science ()
 - Nestjs Community ( )
-- Svelte Society Uganda ( )
+- Svelte Society Uganda : ( )
+- Makerere University Centre for Artificial Intelligence (Mak-AI):(https://www.linkedin.com/company/makerere-university-centre-for-artificial-intelligence-mak-ai/)
 
 ## Acronyms
 
