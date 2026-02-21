@@ -44,6 +44,7 @@ This is a list of all of the tech communities in Uganda
 - Nestjs Community ( )
 - Svelte Society Uganda : ( )
 - Makerere University Centre for Artificial Intelligence (Mak-AI):(https://www.linkedin.com/company/makerere-university-centre-for-artificial-intelligence-mak-ai/)
+-Laravel community Uganda :( https://chat.whatsapp.com/Gl6OT8i4DWyGnVv93Cjx1Y)
 
 ## Acronyms
 
