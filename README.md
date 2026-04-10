@@ -34,6 +34,7 @@ This is a list of all of the tech communities in Uganda
 - GDG on Campus UTAMU: (https://gdg.community.dev/gdg-on-campus-uganda-technology-and-management-university-kampala-uganda/)
 - GDG on Campus Kabale University: (https://gdg.community.dev/gdg-on-campus-kabale-university-kabale-uganda/)
 - PyData Kampala: (https://chat.whatsapp.com/GPDBHUyd47WJxT8qCznBRO)
+- R Hangouts: (https://chat.whatsapp.com/I04EQ4mFIf50a6cMX3TRlq )
 - BitDevs: ()
 - BitCoin Ug: ()
 - CSS Kampala :()
