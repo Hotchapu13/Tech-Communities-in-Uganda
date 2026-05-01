@@ -61,6 +61,6 @@ This is a list of all of the tech communities in Uganda
 - CSS: Cascading Style Sheets
 - Js: JavaScript
 - Ug: Uganda
-- ISBAT : 
+- ISBAT : International Business, Science And Technology University
   
 
