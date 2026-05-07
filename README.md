@@ -65,5 +65,6 @@ This is a list of all of the tech communities in Uganda
 - Js: JavaScript
 - Ug: Uganda
 - ISBAT : International Business, Science And Technology University
+- AI : Artificial Intelligence
   
 
