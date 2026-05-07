@@ -38,6 +38,7 @@ This is a list of all of the tech communities in Uganda
 - PyData Kampala: (https://chat.whatsapp.com/GPDBHUyd47WJxT8qCznBRO)
 - R Hangouts: (https://chat.whatsapp.com/I04EQ4mFIf50a6cMX3TRlq )
 - Kampala Design Community : ( https://chat.whatsapp.com/GwP9nlkcxZDCqVMtmLN0Ax?mode=gi_t )
+- Indabax Uganda: ( )
 - BitDevs: ()
 - BitCoin Ug: ()
 - CSS Kampala :()
