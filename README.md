@@ -13,6 +13,7 @@ This is a list of all of the tech communities in Uganda
 - DroidCon Uganda:(https://www.uganda.droidcon.com/)](https://www.uganda.droidcon.com/)
 - Edutech Club:(https://www.edutechclub.africa/)
 - OSCA Kampala:(https://oscakampala.org/)
+- OSCA Kampala CyberSecurity: ( https://chat.whatsapp.com/JefOHmMFper9K6KmV7Pj5N )
 - JavaScript Kampala:(https://kampala.js.org/)
 - WiCyb Uganda:(https://www.wicys.org/wicys-uganda-affiliate/)
 - Women Techmakers Kampala:(https://x.com/WTMKampala)
