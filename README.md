@@ -52,7 +52,7 @@ This is a list of all of the tech communities in Uganda
 - Svelte Society Uganda : ( )
 - Makerere University Centre for Artificial Intelligence (Mak-AI):(https://www.linkedin.com/company/makerere-university-centre-for-artificial-intelligence-mak-ai/)
 - Laravel community Uganda :( https://chat.whatsapp.com/Gl6OT8i4DWyGnVv93Cjx1Y)
-- Makerere University Centre for Artificial Intelligence (Mak-AI):(https://www.linkedin.com/company/makerere-university-centre-for-artificial-intelligence-mak-ai/)
+- AWS Student Builder Group (SBG)-Mbarara University of Science and Technology (MUST), (Mak-AI):(https://www.linkedin.com/company/makerere-university-centre-for-artificial-intelligence-mak-ai/)
 
 
 ## Acronyms
@@ -62,6 +62,7 @@ This is a list of all of the tech communities in Uganda
 - WiCyb: Women in CyberSecurity
 - KIU: Kampala International University
 - MUK: Makerere University Kampala
+- MUST: Mbarara University of Science and Technology 
 - UICT: Uganda Institute of Information Technology
 - UTAMU: Uganda Technology and Management University
 - CSS: Cascading Style Sheets
