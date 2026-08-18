@@ -56,7 +56,6 @@ This is a list of all of the tech communities in Uganda
 - Laravel community Uganda :( https://chat.whatsapp.com/Gl6OT8i4DWyGnVv93Cjx1Y)
 - AWS Student Builder Group (SBG)-Mbarara University of Science and Technology (MUST) :(https://www.meetup.com/aws-sbg-at-mbarara-uni-of-science-and-tech-kihumuro/)
 
-
 ## Acronyms
 
 - GDG: Google Developer Groups
