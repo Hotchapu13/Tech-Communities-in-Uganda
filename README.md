@@ -4,6 +4,7 @@
 This is a list of all of the tech communities in Uganda
 
 - Wordpress Kampala:(https://x.com/WordPressKLA)
+- Wordpress Jinja: (https://x.com/WordPressKLA)
 - MTN Momo Developers:(https://momodevelopercommunity.mtn.com/)
 - Code Zone Ug:(https://codezoneug.com/)
 - Africa's Talking:(https://x.com/ATCommunityKla)
