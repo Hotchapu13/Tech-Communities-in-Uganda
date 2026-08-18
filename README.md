@@ -4,7 +4,7 @@
 This is a list of all of the tech communities in Uganda
 
 - Wordpress Kampala:(https://x.com/WordPressKLA)
-- Wordpress Jinja: (https://x.com/WordPressKLA)
+- Wordpress Jinja: ()
 - MTN Momo Developers:(https://momodevelopercommunity.mtn.com/)
 - Code Zone Ug:(https://codezoneug.com/)
 - Africa's Talking:(https://x.com/ATCommunityKla)
@@ -23,6 +23,7 @@ This is a list of all of the tech communities in Uganda
 - GDG Mbale:(https://gdg.community.dev/gdg-mbale/)
 - GDG Cloud Kampala: (https://gdg.community.dev/gdg-cloud-kampala/)
 - GDG Kampala:(https://gdg.community.dev/gdg-kampala/)
+- GDG Kayunga: ()
 - GDG Bugiri:(https://gdg.community.dev/gdg-bugiri/)
 - GDG Cloud Mbarara:(https://gdg.community.dev/gdg-cloud-mbarara/)
 - Women Techmakers Mbarara:(https://x.com/WTMMbarara)
