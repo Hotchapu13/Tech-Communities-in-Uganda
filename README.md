@@ -43,7 +43,6 @@ This is a list of all of the tech communities in Uganda
 - BitDevs: ()
 - BitCoin Ug: ()
 - CSS Kampala: ()
-- Next Js Kampala: ()
 - Supabase Community: ()
 - Global AI Mbarara: (https://globalai.community/chapters/mbarara/)
 - Js Ladies: ()
@@ -61,6 +60,7 @@ This is a list of all of the tech communities in Uganda
 - WiCyb: Women in CyberSecurity
 - KIU: Kampala International University
 - MUK: Makerere University Kampala
+- MUST: Mbarara University of Science and Technology 
 - UICT: Uganda Institute of Information Technology
 - UTAMU: Uganda Technology and Management University
 - CSS: Cascading Style Sheets
